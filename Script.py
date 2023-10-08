@@ -229,7 +229,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>👋Hey {mention}. 💖
+    CAPTION = """<b>👋Hey My Dear 💖
 
 📂Fɪʟᴇɴᴀᴍᴇ :  {file_name}
 
