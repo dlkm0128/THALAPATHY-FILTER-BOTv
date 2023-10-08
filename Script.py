@@ -229,9 +229,13 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """<b>👋Hey {mention}. 💖
 
-<b> Size ⚙️: {file_size}</b>""" 
+📂Fɪʟᴇɴᴀᴍᴇ :  {file_name}
+
+💿 Size : {file_size}
+
+➥ 𝗝𝗼𝗶𝗻 ➼ @TamilRockerz_TR</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>
