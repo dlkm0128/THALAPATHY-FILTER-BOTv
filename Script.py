@@ -249,9 +249,6 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 <b>
 🙋🏻‍♂️Hᴇʏ {message.from_user.mention}💝
 
-🦋Your Requested: {qurey}🔎
-
-⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
 
 🏷 Title: <a href={url}>{title}</a>
 🎭 Genres: {genres}
